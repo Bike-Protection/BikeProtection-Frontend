@@ -1,5 +1,7 @@
-export const THEME ={
-    TEXT_COLOR: '#FFFFFF',
-    RED_COLOR: '#EB0000',
-    GREEN_COLOR: '#0A7E4E',
-}
+export const THEME = {
+  WHITE_COLOR: "#FFFFFF",
+  BLACK_COLOR: "#000000",
+  RED_COLOR: "#EB0000",
+  GREEN_COLOR: "#0A7E4E",
+  RECTANGLE_COLOR: "rgba(0, 0, 0, 0.65)",
+};

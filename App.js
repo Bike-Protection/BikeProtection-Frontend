@@ -1,9 +1,6 @@
-import React from 'react';
-import MainContainer from './navigation/tabs';
+import React from "react";
+import MainContainer from "./navigation/tabs";
 
 export default function App() {
-  
-  return (
-      <MainContainer/>
-  );
+  return <MainContainer />;
 }
